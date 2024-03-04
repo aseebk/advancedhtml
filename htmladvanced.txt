@@ -1,0 +1,62 @@
+HTML ADVANCED
+---------------
+*HTML5 adds and amends a handful of tags relating to text. Many of the minor amendments, such as differing attributes in existing tags
+   time and mark tag
+   The <mark> tag in HTML is used to define the marked text. It is used to highlight the part of the text in a paragraph. 
+   The <time> tag defines a specific time (or datetime).
+
+Tables: Columns, Headers, and Footers
+--------------------
+ *The <thead> tag in HTML is used to create a table header and usually appears after the <colgroup> or <caption> tags and it should appear before the <tbody> and <tfoot> tag.
+
+            <table>
+              <colgroup>
+                <col>
+                   <col class="alternative">
+                   <col>
+               </colgroup>
+*thead, tfoot and tbody allow you to separate the table into header, footer and body, which can be handy when dealing with larger tables.
+
+The Div Align Attribute
+--------------------------
+The <div align=""> attribute is used for aligning the text in a div tag to The Left, Right, center or justify.
+
+The Font Color Attribute
+------------------------
+This attribute is used to set a color to the text enclosed in a <font> tag.
+
+The Font Size Attribute
+------------------------------
+This attribute specifies the font size as either a numeric or relative value. Numeric values range from 1 to 7with 1 being the smallest and 3 the default.
+
+The Body Background Attribute 
+-------------------------------
+If you want to add a background image instead of a color, one solution is the <body background> attribute. It specifies a background image for an HTML document.
+
+The Body Bgcolor Attribute
+---------------------------
+The <body bgcolor> attribute assigns a background color for an HTML document.
+
+The Img Align Attribute
+--------------------------
+The align attribute of an image specifies where the image should be aligned according to the surrounding element.
+
+Attribute Values:
+right - Align image to the right left - Align image to the left
+top - Align image to the top
+bottom - Align image to the bottom
+middle - Align image to the middle
+
+HTML5 Audio 
+-----------
+audio files had to be played in a browser using a plug-in like Adobe Flash. 
+
+ Semantic Elements
+ -----------------
+ Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as <header>, <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+ *The <hgroup> element should be used where you want a main heading with one or more subheadings.
+
+  Video
+  -----
+  
